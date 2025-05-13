@@ -5,6 +5,10 @@
 /public/storage
 /storage/*.key
 /vendor
+<<<<<<< HEAD
+=======
+.env
+>>>>>>> 3c53982f5ddae5a17fa7c660be8720f777ac9356
 .env.backup
 .env.production
 .phpunit.result.cache
